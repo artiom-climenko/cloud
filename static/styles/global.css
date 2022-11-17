@@ -2,7 +2,7 @@
 @font-face {
     font-family: 'Quicksand', sans-serif;
     font-display: swap;
-    src: url(../Fonts/Quicksand-VariableFont_wght.woff2);
+    src: url(../fonts/Quicksand-VariableFont_wght.woff2);
   }
 
 /* Variables */ 
@@ -15,15 +15,17 @@
     --color-gray-blue:         #8D96BD;
     --color-gray:              #697CA6;
     --color-light-gray:        #ADB3CB;
+    --color-light-gray-two:    #D1D1E4;
     --color-gray400:           #999999;
     --color-background-gray:   #F6F6F8;
     --color-skyblue:           #D2E1FF;
     --color-blue:              #5E81FE;
     --color-dark-blue:         #3D4F9F;
+    --color-light-blue:        #F5F8FF;
     --color-pink:              #FFD7D7;
     --color-red:               #D43F3F;
 
-    
+
      /* Font */
     --font-montserrat: 'Quicksand', sans-serif;
 
